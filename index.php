@@ -11,7 +11,7 @@
 	$apiKey = "AQEyhmfxJoLNaBFLw0m/n3Q5qf3VaY9UCJ1+XWZe9W27jmlZioLvYYVLKhuJyPlKTvOFrHEQwV1bDb7kfNy1WIxIIkxgBw==-9pXKdVWbfuOuW3dlgatuXUUrTUg1meQ7br3Qag4y4aA=-t6JtL9kqWkP4I6UC";
 	$cloudURL = "https://terminal-api-test.adyen.com/sync";
 	
-	$localIP = 'http://192.168.14.119:8080/nexo/';	
+	$localIP = 'https://192.168.14.119:8443/nexo/';	
 	
 	
 	$TransactionID = "TID-" . date("Y-m-d-H:i:s");  

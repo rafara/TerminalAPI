@@ -8,7 +8,7 @@
 
 
 	
-	$apiKey = "AQEyhmfxJoLNaBFLw0m/n3Q5qf3VaY9UCJ1+XWZe9W27jmlZioLvYYVLKhuJyPlKTvOFrHEQwV1bDb7kfNy1WIxIIkxgBw==-9pXKdVWbfuOuW3dlgatuXUUrTUg1meQ7br3Qag4y4aA=-t6JtL9kqWkP4I6UC";
+	$apiKey = "API KEY";
 	$cloudURL = "https://terminal-api-test.adyen.com/sync";
 	
 	$localIP = 'https://192.168.14.119:8443/nexo/';	
